@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|c:\\users\\\u9673\u4FCA\u8AF3\\desktop\\erp\\models\\makeorderprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|solutionrelative:models\\makeorderprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|c:\\users\\\u9673\u4FCA\u8AF3\\desktop\\erp\\controllers\\makeorderprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|solutionrelative:controllers\\makeorderprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|c:\\users\\\u9673\u4FCA\u8AF3\\desktop\\erp\\views\\makeorderprocess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|solutionrelative:views\\makeorderprocess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|c:\\users\\\u9673\u4FCA\u8AF3\\desktop\\erp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|c:\\users\\\u9673\u4FCA\u8AF3\\desktop\\erp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|c:\\users\\\u9673\u4FCA\u8AF3\\desktop\\erp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|c:\\users\\\u9673\u4FCA\u8AF3\\desktop\\erp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|c:\\users\\\u9673\u4FCA\u8AF3\\desktop\\erp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BB82EE-D65C-4C77-A10F-3B0D76969682}|ERP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Views\\MakeOrderProcess\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MakeOrderProcess\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Views\\MakeOrderProcess\\Index.cshtml",
+              "RelativeToolTip": "Views\\MakeOrderProcess\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T07:31:57.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MakeOrderProcess.cs",
+              "DocumentMoniker": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Models\\MakeOrderProcess.cs",
+              "RelativeDocumentMoniker": "Models\\MakeOrderProcess.cs",
+              "ToolTip": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Models\\MakeOrderProcess.cs",
+              "RelativeToolTip": "Models\\MakeOrderProcess.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:31:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MakeOrderProcessController.cs",
+              "DocumentMoniker": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Controllers\\MakeOrderProcessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MakeOrderProcessController.cs",
+              "ToolTip": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Controllers\\MakeOrderProcessController.cs",
+              "RelativeToolTip": "Controllers\\MakeOrderProcessController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:29:59.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T07:25:39.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T07:23:31.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:22:56.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:21:43.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u9673\u4FCA\u8AF3\\Desktop\\ERP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:18:34.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

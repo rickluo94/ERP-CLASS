@@ -1,0 +1,82 @@
+@model ERP.ViewModels.MakeOrderProcess.ListViewModel
+@{
+    ViewData["Title"] = "MakeOrderProcess";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid mt-5">
+    <div class="row">
+        <div class="col col-lg-3">
+            <form asp-controller="MakeOrderProcess" asp-action="List"  asp-antiforgery="true" class="border p-3">
+                <div class="mb-3">
+                    <label for="inputId" class="form-label">單號</label>
+                    <input type="text" class="form-control" id="inputId" asp-for="Id">
+                </div>
+                <div class="mb-3">
+                    <label for="inputProcess" class="form-label">製程</label>
+                    <input type="text" class="form-control" id="inputProcess" asp-for="Process">
+                </div>
+                <div class="mb-3">
+                    <label for="selectIsOver" class="form-label">狀態</label>
+                    <select id="selectIsOver" class="form-select" asp-for="IsOver">
+                        <option></option>
+                        <option value="false">開工</option>
+                        <option value="true">完工</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="startDate">完工日（起）</label>
+                    <input id="startDate" class="form-control" type="date" asp-for="StartDate"/>
+                </div>
+                <div class="mb-3">
+                    <label for="endDate">完工日（迄）</label>
+                    <input id="endDate" class="form-control" type="date" asp-for="EndDate"/>
+                </div>
+                <div class="mb-3">
+                    <label for="inputOrderQty" class="form-label">訂單數量</label>
+                    <input type="text" class="form-control" id="inputOrderQty" asp-for="OrderQty">
+                </div>
+                <div class="mb-3">
+                    <label for="inputCqty" class="form-label">完工數量</label>
+                    <input type="text" class="form-control" id="inputCqty" asp-for="Cqty">
+                </div>
+                <input type="submit" class="btn btn-primary" value="Filter" >
+                <input type="submit" class="btn btn-secondary" value="Clear">
+            </form>
+        </div>
+        <div class="col col-lg-9">
+            <table class="border p-3 table">
+                <thead>
+                <tr>
+                    <th scope="col">單號</th>
+                    <th scope="col">二維條碼</th>
+                    <th scope="col">製程</th>
+                    <th scope="col">開工完工</th>
+                    <th scope="col">員工</th>
+                    <th scope="col">製單人員</th>
+                    <th scope="col">日期</th>
+                    <th scope="col">訂單數量</th>
+                    <th scope="col">完工數量</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var m in Model.Datas)
+                {
+                <tr>
+                    @* <th scope="row">1</th> *@
+                    <td>@m.Id</td>
+                    <td>@m.MpBarcode</td>
+                    <td>@m.Process</td>
+                    <td>@m.IsOver</td>
+                    <td>@m.Employee</td>
+                    <td>@m.MakeOrderEmployee</td>
+                    <td>@m.Date</td>
+                    <td>@m.OrderQty</td>
+                    <td>@m.Cqty</td>
+                </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
